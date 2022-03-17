@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AryanSinha2003
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning c++, flutter, and web development
+- 🌱 I’m currently learning python , machine learning, deep learning and data science
 - 💞️ I’m looking to collaborate on all the above
 - 📫 How to reach me - aryansinharv2003@gmail.com
 
