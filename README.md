@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @AryanSinha2003
-- 👀 I’m interested in coding 
+- 👋 Hi, I’m AryanSinha
 - 🌱 I’m currently learning python , machine learning, deep learning and data science
 - 💞️ I’m looking to collaborate on all the above
 - 📫 How to reach me - aryansinharv2003@gmail.com
